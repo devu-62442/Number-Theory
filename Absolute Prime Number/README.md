@@ -1,1 +1,1 @@
-Absolute Prime Number
+# Absolute-Prime-Number
